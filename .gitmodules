@@ -1,0 +1,3 @@
+[submodule "SubModuleTest01"]
+	path = SubModuleTest01
+	url = https://github.com/CCIsSaltedFish/SubModuleTest01.git
